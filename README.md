@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-commerce Sales Analytics Dashboard
 
 An end-to-end data analytics project using **Python** and **Microsoft
@@ -184,3 +185,7 @@ data or unnecessarily large source files.
 **Dataset:** Synthetic e-commerce sales dataset\
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook,
 Power BI, DAX
+=======
+# E-commerce-sales-analytics
+E-commerce Sales Analytics Dashboard using Python, Pandas, SQL concepts, and Power BI.
+>>>>>>> aa65f342cb6e36fbe233b9f918562395a9a8c3b6
